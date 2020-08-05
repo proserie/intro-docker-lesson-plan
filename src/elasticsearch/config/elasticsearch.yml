@@ -1,0 +1,7 @@
+cluster.name: development
+node.name: dev1
+bootstrap.memory_lock: false
+network.host: 0.0.0.0
+discovery.type: single-node
+xpack.security.enabled: true
+xpack.security.audit.enabled: true

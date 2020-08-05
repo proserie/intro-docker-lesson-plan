@@ -1,0 +1,6 @@
+elasticsearch.url: "http://elasticsearch:9200"
+xpack.monitoring.ui.container.elasticsearch.enabled: True
+server.name: "kibana"
+server.host: "0"
+server.port: 5601
+

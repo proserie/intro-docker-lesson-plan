@@ -1,0 +1,1 @@
+When creating a container network, it is basically any any between containers. It is all internal to the docker swarm but we can further lock this down with iptables.

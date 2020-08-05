@@ -1,0 +1,45 @@
+{"Company": [
+  {
+    "Team": "Company Team",
+    "Members": [
+      {
+        "Team Member": {
+          "Name": "Team Member 1",
+          "Title": "Team Member 1 Title",
+          "Tenure": {
+            "Year": "0",
+            "Month": "0"
+          }
+        },
+          "Tagline": "Team Member 1",
+          "Manager": "Manager 1"
+        },
+      {
+        "Team Member": {
+          "Name": "Team Member 2",
+          "Title": "Team Member 2 Title",
+          "Tenure": {
+            "Year": "0",
+            "Month": "0"
+          },
+          "Tagline": "NA",
+          "Manager": "Manager 1"
+        }
+      },
+      {
+        "Team Member": {
+          "Name": "Team Member 3",
+          "Title": "Team Member 3",
+          "Tenure": {
+            "Year": "0",
+            "Month": "0"
+          },
+          "Tagline": "Team Member 3",
+          "Manager": "Manager 1"
+        }
+      }
+    ]
+  }
+  ]
+}
+

@@ -1,0 +1,54 @@
+{"owner": "Company",
+  "Location": "Company Address",
+  "Floor": "Company Floor",
+  "Business Unit": "Company Business Unit",
+  "Team Members": {
+    "Team Member 1": {
+      "Title": "Team Member 1",
+      "Tenure": "0",
+      "Tagline": "Team Member 1"
+    },
+    "Team Member 2": {
+      "Title": "Team Member 2",
+      "Tenure": "0",
+      "Tagline": "Team Member 2"
+    },
+    "Team Member 3": {
+      "Title": "Team Member 3",
+      "Tenure": "0",
+      "Tagline": "Team Member 3"
+    },
+    "Team Member 4": {
+      "Title": "Team Member 4",
+      "Tenure": "0",
+      "Tagline": "Team Member 4"
+    },
+    "Team Member 5": {
+      "Title": "Team Member 5",
+      "Tenure": "0",
+      "Tagline": "Team Member 5"
+    },
+    "Team Member 6": {
+      "Title": "Team Member 6",
+      "Tenure": "0",
+      "Tagline": "Team Member 6"
+    }
+  },
+  "Managers" : {
+    "Manager 1": {
+      "Title": "Manager 1",
+      "Tenure": "0",
+      "Tagline": "Manager 1"
+    },
+    "Manager 2": {
+      "Title": "Manager 2",
+      "Tenure": "0",
+      "Tagline": "Manager 2"
+    },
+    "Manager 3": {
+      "Title": "Manager 3",
+      "Tenure": "0",
+      "Tagline": "Manager 3"
+    }
+  }
+}
